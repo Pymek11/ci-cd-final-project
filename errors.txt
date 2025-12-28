@@ -1,0 +1,1 @@
+task.tekton.dev/cleanup configured
